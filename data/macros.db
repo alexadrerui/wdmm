@@ -1,0 +1,1 @@
+{"_id":"BWTFQnniA2Oa0FFW","name":"Wild Magic Surge","permission":{"default":0,"KUAsc8pxAFL3XP0J":3},"type":"script","sort":100001,"flags":{},"scope":"global","command":"const table = game.tables.entities.find(t => t.name === \"Wild Magic Surge\");\ntable.draw();","author":"KUAsc8pxAFL3XP0J","img":"icons/svg/dice-target.svg","actorIds":[]}
