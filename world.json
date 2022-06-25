@@ -28,7 +28,7 @@
   "system": "dnd5e",
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/alexadrerui/wdmm/main/world.json?token=GHSAT0AAAAAABV72X6RT5WMFLE3O26LJVGSYVXTUGQ",
+  "manifest": "https://raw.githubusercontent.com/alexadrerui/wdmm/main/world.json",
   "download": "https://thetrove.net/Books/Dungeons%20&%20Dragons/5th%20Edition%20(5e)/FoundryVTT/world/wdmm.zip",
   "protected": false,
   "background": "worlds/wdmm/scenes/backgrounds/StartLogin.png",
